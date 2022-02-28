@@ -7,6 +7,6 @@ Me chamo Ewerton Dutra, tenho 28 anos, sou um dos responsáveis da empresa [Web 
 
 - :nerd_face: Análise e Desenvolvimento de Sistemas
 - :briefcase: Trabalhando na: [Web Evolui](https://webevolui.com.br/)
-- :computer: Conhecimentos em: PHP, HTML/CSS, JS, C#, Flutter, MySQL, SQL, Delphi e quem sabe já mais tecnologias **by Linkedin**.
+- :computer: Conhecimentos em: PHP, HTML/CSS, JS, C#, Flutter, MySQL, SQL, Delphi e quem sabe já mais alguma tecnologia, confira no **by Linkedin**.
 - 💬: Contatos acima ✨
 
