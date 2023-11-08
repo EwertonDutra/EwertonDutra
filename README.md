@@ -10,3 +10,6 @@ Me chamo Ewerton Dutra, tenho 30 anos, trabalho na [Web Evolui](https://webevolu
 - :computer: Conhecimentos em: PHP, HTML/CSS, JS, C#, Flutter, MySQL, SQL, Delphi e quem sabe já mais alguma tecnologia, confira no **by Linkedin**.
 - 💬 Contatos acima ✨
 
+### Canal no Youtube
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/WebDutras)
+
